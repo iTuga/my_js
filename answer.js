@@ -1,5 +1,5 @@
 function helloWorld() {
-var sayHi = "Hello World!";
-console.log(sayHi);
+var str = "Hello World!";
+console.log(str);
 }
-helloWorld;
+helloWorld();
